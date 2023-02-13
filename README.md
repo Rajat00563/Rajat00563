@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajat00563
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Java,python,Data structure and algo in C,SQL
+- 🌱 I’m currently learning Java, python, JavaScript, HTML, CSS, Data structure and algo in C,SQL
 - 💞️ I’m looking to collaborate on ...**Just looking forward to learn everything which is needed to become a Full stack developer**
 - 📫 How to reach me- 9971196574
 
